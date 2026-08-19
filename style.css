@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex: 1;
+  width: 100%;
+  flex-direction: row;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.element {
+  display: flex;
+  flex: 1 1 0;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+}
+
+button {
+    padding: 1em;
+    margin: 1em;
+    font-weight: bold;
+    border-radius: 8px;
+    border: 2px solid black;
+
+}
