@@ -1,5 +1,7 @@
 # Etch-a-Sketch
 
+[View the live demo](https://r0bby97.github.io/etch-a-sketch/)
+
 This project is a browser-based drawing grid created as part of
 [The Odin Project Foundations course](https://www.theodinproject.com/lessons/foundations-etch-a-sketch).
 
