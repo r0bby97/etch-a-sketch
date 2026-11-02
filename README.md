@@ -62,3 +62,7 @@ The main assignment and both optional extra-credit features are complete.
 
 The grid now uses random RGB colors and progressively increases the opacity
 of each square with repeated interactions.
+
+## Feedback and contributions
+
+For a bug report, open a repository issue with steps to reproduce, expected and actual behavior, and your browser or device details. Discuss substantial changes in an issue before opening a pull request. Keep changes focused and describe how you checked them.
